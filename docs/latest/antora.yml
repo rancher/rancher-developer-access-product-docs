@@ -1,0 +1,7 @@
+name: rancher-developer-access
+title: SUSE Rancher Developer Access
+version: latest
+display_version: 'Latest'
+start_page: en:onboarding-and-implementation.adoc
+nav:
+- modules/en/nav.adoc
