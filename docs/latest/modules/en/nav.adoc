@@ -1,2 +1,2 @@
-* onboarding-and-implementation.adoc[]
-* developing-for-kubernetes.adoc
+* xref:onboarding-and-implementation.adoc[]
+* xref:developing-for-kubernetes.adoc[]
