@@ -3,7 +3,7 @@
     "antora": "3.1.14"
   },
   "dependencies": {
-    "@antora/lunr-extension": "^1.0.0-alpha.8",
-    "@springio/antora-xref-extension": "^1.0.0-alpha.4"
+    "@antora/lunr-extension": "1.0.0-alpha.8",
+    "@springio/antora-xref-extension": "1.0.0-alpha.4"
   }
 }
