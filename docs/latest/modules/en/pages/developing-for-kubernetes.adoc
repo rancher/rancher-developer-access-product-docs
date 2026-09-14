@@ -1,4 +1,5 @@
 = Developing for Kubernetes
+:description: Learn to develop Kubernetes apps using Rancher Desktop, SUSE Application Collection, and tools for inner loop, observability, and GitOps
 :page-languages: [en, de, es, fr, ja, pt, zh]
 :revdate: 2026-03-09
 :page-revdate: {revdate}

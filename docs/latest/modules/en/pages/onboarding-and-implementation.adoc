@@ -1,4 +1,5 @@
 = Onboarding and Implementation Guide
+:description: Activate your subscription, create access tokens, and set up a local Kubernetes environment using Rancher Desktop and K3s
 :page-languages: [en, de, es, fr, ja, pt, zh]
 :revdate: 2026-03-09
 :page-revdate: {revdate}
